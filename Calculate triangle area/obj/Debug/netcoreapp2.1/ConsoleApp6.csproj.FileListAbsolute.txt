@@ -1,0 +1,10 @@
+C:\Users\aluno1\Source\Repos\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Source\Repos\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\aluno1\Source\Repos\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.AssemblyInfo.cs
+C:\Users\aluno1\Source\Repos\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.deps.json
+C:\Users\aluno1\Source\Repos\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.runtimeconfig.json
+C:\Users\aluno1\Source\Repos\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.runtimeconfig.dev.json
+C:\Users\aluno1\Source\Repos\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.dll
+C:\Users\aluno1\Source\Repos\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.pdb
+C:\Users\aluno1\Source\Repos\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.dll
+C:\Users\aluno1\Source\Repos\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.pdb
